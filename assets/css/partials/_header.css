@@ -6,16 +6,20 @@ nav {
     display: flex;
     background-color: var(--bg-color);
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     padding: 20px 40px;
 }
 
 nav h1 {
-    color: var(--primary-color);
+    color: black;
 }
 
 nav ul {
     display: flex;
     flex-direction: row;    
     gap: 40px;
+}
+
+nav ul a {
+    color: var(--primary-color);
 }

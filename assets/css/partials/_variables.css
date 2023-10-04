@@ -3,6 +3,6 @@
 :root {
   --font-family: "Roboto", sans-serif;
   --bg-color: #eedc38; 
-  --primary-color: #2a403d;
-  --secondary-color: blue;
+  --primary-color: orange;
+  --secondary-color: rgb(189, 120, 30);
 } 
