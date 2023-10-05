@@ -17,5 +17,6 @@ footer ul {
   display: flex;
   flex-direction: row;
   gap: 10px;
+  color: aqua;
   justify-content: center;
 }
